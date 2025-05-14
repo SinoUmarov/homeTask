@@ -1,0 +1,23 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+.ul-div{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    color: gray;
+}
+.by-demo{
+background-color: #212B31;
+padding: 10px;
+color: white;
+border: 1px solid black;
+border-radius: 10px
+}
